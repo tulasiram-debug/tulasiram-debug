@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tulasiram
+- 👀 I’m interested in ... Solving problems
+- 🌱 I’m currently working to develop Switches and routers software for Broadcom, Marvell and Vitesse based ASICs.
+- 💞️ I’m looking to collaborate on Networking projects
